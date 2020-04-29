@@ -1,16 +1,23 @@
-## Objectives
+## Introduction to the Post-Graduate Track
 
-1. Objective 1
-2. Objective 2
+First and foremost, congratulations on graduating from our Software Engineering
+course! Take a moment to think about what you've learned - it is quite an
+accomplishment!
 
-## Instructions
+Going through our course is only the beginning of the journey. Continuing to
+learn and improve is a vital part of being a successful software engineer. You're
+now at a point along the path where _you_ choose what to learn and focus. Each
+individual is different - your interests and career goals are unique, and it now
+up to you to decide what direction you move in.
 
-Make the tests pass.
+This track is provided to help you continue your journey. Based on feedback from
+former students and employers that have hired Flatiron graduates, we've compiled
+resources for you to explore while you are in your job search. We've also put
+together some specific guidance to help improve your existing accomplishments.
 
-### Part 1: Do Some Stuff
+Think about what positions you're interested in applying for. What concepts can
+you learn now that make you a better candidate for these positions? What things
+can you do to show employers that you are a good fit for their company?
 
-## Resources
-
-* [Stack Exchange](http://www.stackexchange.com) - [Some Question on Stack Exchange](http://www.stackexchange.com/questions/123)
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/introduction-to-post-graduate-content'>Introduction to Post-Graduate Content</a> on Learn.co and start learning to code for free.</p>
+You do not have to work through all of the content shared here. Instead, use
+this track as a jumping-off point. Your journey is only just beginning!
