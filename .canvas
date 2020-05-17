@@ -1,4 +1,6 @@
 ---
-:page_id: 3437
-:course_id: 239
-:canvas_url: https://learning.flatironschool.com/courses/239/pages/introduction-to-post-graduate-content
+:lessons:
+- :id: 3916
+  :course_id: 272
+  :canvas_url: https://learning.flatironschool.com/courses/272/pages/introduction-to-post-graduate-content
+  :type: page
