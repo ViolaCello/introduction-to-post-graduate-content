@@ -1,4 +1,4 @@
-## Introduction to the Post-Graduate Track
+## Introduction to the Post-Work Track
 
 This course is designed especially for graduates of Flatiron’s Software
 Engineering Program. As you get ready to dive in, take a moment to think
@@ -31,3 +31,4 @@ to help you improve your existing projects.
 Use this as a guide to becoming an even better software engineer.
 
 [so survey]: https://insights.stackoverflow.com/survey/2020?mkt_tok=eyJpIjoiWTJZek5qSmxObU14TURFeiIsInQiOiJDNWFpXC90NGpodUhWc1Vja3VLT2haNnFYT2wyeHFcL255NUJYOVwvVjZrZkdGWjdiOWI4bnZnRGFPSm9QcjdjblV6VVVQekU3bFwvSjA3VXpCUGkreldYc1ZvZUpVdm9PRm1PcGdKV2NhWVZPYzQ3MzFMXC9SeDRuSE1LMXVxd2ZiZmI3In0%3D#technology-learning-new-tech-frequency
+<p class='util--hide'>View <a href='https://learn.co/lessons/introduction-to-post-graduate-content'>Introduction to Post-Work Content</a> on Learn.co and start learning to code for free.</p>
